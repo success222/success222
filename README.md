@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Success
 
-I'm a Registered Nurse transitioning into Data Science. I have a strong passion for leveraging data to improve healthcare outcomes.
+I'm a Registered Nurse with a growing expertise in Data Science. I have a strong passion for leveraging data to improve healthcare outcomes.
 My journey into data science stems from a desire to make a broader impact in healthcare beyond bedside care.
-I am currently enrolled in the IBM Data Science Professional Certificate and building hands-on projects to strengthen my skills.
+I am enrolled in the IBM Data Science Professional Certificate and building hands-on projects to strengthen my skills.
 
 ---
 
