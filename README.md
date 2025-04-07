@@ -22,7 +22,9 @@ I am enrolled in the IBM Data Science Professional Certificate and building hand
 ---
 
 ## 📁 Portfolio
-🚧 *Currently working on projects. Stay tuned!* 🚧
+### 🔹 [Sleep Disorder and Lifestyle Analysis](https://github.com/success222/Sleep-Disorder-Prediction)
+Used classification models to predict sleep disorders based on lifestyle factors
+**Tools:** Python, Pandas, Scikit-learn
 
 ---
 
