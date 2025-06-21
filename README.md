@@ -25,6 +25,9 @@ My journey into data science stems from a desire to make a broader impact in hea
 Used classification models to predict sleep disorders based on lifestyle factors
 **Tools:** Python, Pandas, Scikit-learn
 
+### 🔹 [Quality of Life Analysis in Children with Autism Spectrum Disorder](https://github.com/success222/QoL-Autism-Analysis)
+Used python libraries to analyse the quality of life in children living with Autism Spectrum Disorder
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Scipy
 ---
 
 ## 📫 Let's Connect
