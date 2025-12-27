@@ -21,10 +21,15 @@ My journey into data science stems from a desire to make a broader impact in hea
 ---
 
 ## 📁 Portfolio
+### 🔹 [Cardiometabolic Risk Prediction Using NHANES Data](https://github.com/success222/Cardiometabolic-Risk-Prediction-Using-NHANES-Data)
+Used machine learning models to predict cardiometabolic outcomes using NHANES survey data.
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
 ### 🔹 [Sleep Disorder and Lifestyle Analysis](https://github.com/success222/Sleep-Disorder-Prediction)
 Used classification models to predict sleep disorders based on lifestyle factors
 
-**Tools:** Python, Pandas, Scikit-learn
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ### 🔹 [Quality of Life in Children with Autism Spectrum Disorder Analysis](https://github.com/success222/QoL-Autism-Analysis)
 Used python libraries to analyse the quality of life in children living with Autism Spectrum Disorder
