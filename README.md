@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Success
 
-I'm a Registered Nurse with a growing expertise in Data Science. I have a strong passion for leveraging data to improve healthcare outcomes.
+I'm a Registered Nurse with a growing expertise in Data Science and Machine Learning. I have a strong passion for leveraging data and AI to improve healthcare outcomes.
 My journey into data science stems from a desire to make a broader impact in healthcare beyond bedside care.
 
 ---
@@ -21,6 +21,11 @@ My journey into data science stems from a desire to make a broader impact in hea
 ---
 
 ## 📁 Portfolio
+### 🔹 [ASD-Prediction-in-Children](https://github.com/success222/ASD-Prediction-in-Children)
+Used machine learning models to predict Autism Spectrum Disorder in children.
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
 ### 🔹 [Cardiometabolic Risk Prediction Using NHANES Data](https://github.com/success222/Cardiometabolic-Risk-Prediction-Using-NHANES-Data)
 Used machine learning models to predict cardiometabolic outcomes using NHANES survey data.
 
