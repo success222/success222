@@ -31,7 +31,7 @@ Used machine learning models to predict cardiometabolic outcomes using NHANES su
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-### 🔹 [Sleep Disorder and Lifestyle Analysis](https://github.com/success222/Sleep-Disorder-Prediction)
+### 🔹 [Sleep Disorder Prediction](https://github.com/success222/Sleep-Disorder-New)
 Used classification models to predict sleep disorders based on lifestyle factors
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
