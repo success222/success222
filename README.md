@@ -26,8 +26,8 @@ Used machine learning models to predict Autism Spectrum Disorder in children.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-### 🔹 [Cardiometabolic Risk Prediction Using NHANES Data](https://github.com/success222/Cardiometabolic-Risk-Prediction-Using-NHANES-Data)
-Used machine learning models to predict cardiometabolic outcomes using NHANES survey data.
+### 🔹 [Cardiometabolic Risk Prediction Using NHANES Data](https://github.com/success222/cardiometabolic-risk-pred)
+Created a machine learning-based screening tool that estimates cardiometabolic risk using non-invasive health indicators.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
