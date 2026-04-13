@@ -1,7 +1,8 @@
 ## 👋 Hi there! I'm Success
 
-I'm a Data Scientist with a strong focus on Machine Learning for healthcare.  
-With a clinical background in nursing, I build data-driven and AI-powered solutions that improve screening, risk prediction, and decision support systems.
+I'm a Machine Learning Engineer focused on healthcare, building and deploying ML systems for clinical and public health applications.
+
+With a clinical background in nursing, I develop data-driven and AI-powered solutions for screening, risk prediction, and decision support.
 
 ---
 
