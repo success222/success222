@@ -1,96 +1,100 @@
 ## 👋 Hi there! I'm Success
 
-I'm a Machine Learning Engineer focused on healthcare, building and deploying ML systems for clinical and public health applications.
+I'm a Machine Learning Engineer passionate about building end-to-end data and AI solutions, from data analysis and predictive modeling to deploying production-ready machine learning applications.
 
-With a clinical background in nursing, I develop data-driven and AI-powered solutions for screening, risk prediction, and decision support.
+I enjoy solving real-world problems with data, machine learning, and AI, and I'm continuously expanding my skills in modern AI engineering, intelligent systems, and scalable ML applications.
 
 ---
 
 ## 🧠 About Me
-- 🩺 Clinical background with real-world healthcare insight  
-- 🤖 Building and deploying machine learning models  
-- 🧠 Currently developing AI-powered tools for healthcare applications  
-- 🎯 Interested in ML Engineering, clinical AI, and decision support systems  
+
+- 📊 Building end-to-end machine learning and AI applications
+- 🧹 Transforming data into actionable insights through analysis and predictive modeling
+- 🚀 Deploying production-ready machine learning models and APIs
+- 🌱 Currently exploring LLMs, AI agents, and modern AI engineering practices
 
 ---
 
 ## 💼 Skills & Tools
-- **Languages:** Python, SQL  
-- **ML & Data:** Scikit-learn, Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn, Power BI  
-- **Deployment:** Flask, Render, AWS
-- **Tools:** Git, GitHub, Jupyter Notebook, Visual Studio Code  
+
+- **Languages:** Python, SQL
+- **Data Science & Machine Learning:** Scikit-learn, Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Power BI
+- **Deployment & Backend:** FastAPI, Flask, REST APIs, Render, AWS
+- **Tools:** Git, GitHub, Jupyter Notebook, Visual Studio Code
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 [Cardiometabolic Risk Prediction (NHANES)](https://github.com/success222/cardiometabolic-risk-pred)
-End-to-end multi-output ML project deployed as a web application for identifying risk of cardiometabolic conditions using non-invasive inputs.
+### 🔹 [Vehicle Health Assistant](https://github.com/success222/vehicle-health-assistant)
+AI-powered backend application that combines LLM capabilities with structured vehicle diagnostics to deliver intelligent maintenance recommendations through a REST API.
 
-- Predicts diabetes, prediabetes, dyslipidemia, metabolic syndrome and CVD risk  
-- Built using Random Forest with strong multi-class performance  
-- Deployed using Flask on Render
-- Designed for real-world usability
+- Built a production-ready backend using FastAPI
+- Integrated LLM-powered reasoning with structured vehicle data
+- Implemented secure API endpoints and deployment-ready architecture
+
+**Tech:** Python, FastAPI, LLM APIs
+
+---
+
+### 🔹 [Cardiometabolic Risk Prediction (NHANES)](https://github.com/success222/cardiometabolic-risk-pred)
+
+End-to-end machine learning project for multi-output prediction using real-world health survey data.
+
+- Developed predictive models using feature engineering and model evaluation techniques
+- Built a web application for real-time inference
+- Focused on building an end-to-end machine learning pipeline
 
 **Tech:** Python, Scikit-learn, Pandas, Flask
 
 ---
 
-### 🔹 [ASD-Prediction-in-Children](https://github.com/success222/ASD-Prediction-in-Children)
-Machine learning model for early screening of Autism Spectrum Disorder in children.
+### 🔹 [ASD Prediction in Children](https://github.com/success222/ASD-Prediction-in-Children)
 
-- Achieved high classification performance (Accuracy: ~0.98, ROC-AUC: 1.0)  
-- Compared Logistic Regression, SVM, and Random Forest models  
-- Implemented cross-validation for robust evaluation  
+Machine learning classification project comparing multiple algorithms for predictive modeling.
 
-**Tech:** Python, Scikit-learn, Pandas  
+- Compared Logistic Regression, SVM, and Random Forest models
+- Applied cross-validation for robust model evaluation
+- Achieved strong classification performance
+
+**Tech:** Python, Scikit-learn, Pandas
 
 ---
 
 ### 🔹 [Sleep Disorder Prediction](https://github.com/success222/Sleep-Disorder-New)
-End-to-end ML project deployed as a web application.
 
-- Predicts insomnia, sleep apnea, or no disorder  
-- Built and deployed using Flask  
-- Designed for real-world usability  
+End-to-end machine learning application for multi-class prediction.
 
-**Tech:** Python, Flask, Scikit-learn  
+- Built and deployed an interactive web application
+- Implemented the complete machine learning workflow from preprocessing to deployment
+
+**Tech:** Python, Flask, Scikit-learn
 
 ---
 
 ### 🔹 [Autism QoL Analysis](https://github.com/success222/QoL-Autism-Analysis)
-Exploratory data analysis on quality of life in children with ASD.
 
-- Identified key factors influencing QoL outcomes  
-- Applied statistical analysis and visualization techniques  
+Exploratory data analysis project focused on uncovering insights from structured data.
 
-**Tech:** Python, Pandas, Seaborn  
+- Performed data cleaning, visualization, and statistical analysis
+- Identified key factors influencing quality-of-life outcomes
+- Communicated findings through clear visualizations
+
+**Tech:** Python, Pandas, Seaborn
 
 ---
 
 ## 🧩 Current Work
-- 🛠️ Building **Kindi** — an AI-powered chatbot for social-emotional learning in children  
-- 📊 Working on ML deployment and real-world healthcare applications  
+
+- 🤖 Building AI-powered applications using LLMs and modern backend frameworks
+- 🚀 Exploring production AI systems, model deployment, and intelligent automation
+- 📚 Continuously improving my skills in machine learning, AI engineering, and data science
 
 ---
 
 ## 📫 Let's Connect
+
 - 📧 Email: sotonwasuccess1@gmail.com
-- Portfolio: https://success-ml-portfolio.vercel.app/
+- 🌐 Portfolio: https://success-ml-portfolio.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/success-sotonwa/
-
-<!--
-**success222/success222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
