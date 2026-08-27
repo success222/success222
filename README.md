@@ -1,100 +1,106 @@
-## 👋 Hi there! I'm Success
+# 👋 Hi there! I'm Success
 
-I'm a Machine Learning Engineer passionate about building end-to-end data and AI solutions, from data analysis and predictive modeling to deploying production-ready machine learning applications.
+I'm an AI Engineer who builds intelligent applications and software systems using machine learning and modern AI technologies.
 
-I enjoy solving real-world problems with data, machine learning, and AI, and I'm continuously expanding my skills in modern AI engineering, intelligent systems, and scalable ML applications.
+I enjoy turning real-world problems into practical software — from developing machine learning models and LLM-powered applications to building backend APIs and deploying them into production.
 
 ---
 
 ## 🧠 About Me
 
-- 📊 Building end-to-end machine learning and AI applications
-- 🧹 Transforming data into actionable insights through analysis and predictive modeling
-- 🚀 Deploying production-ready machine learning models and APIs
-- 🌱 Currently exploring LLMs, AI agents, and modern AI engineering practices
+* 🤖 Building AI-powered applications and machine learning systems
+* 💻 Developing backend services, APIs, and software applications with Python
+* 🧠 Working with databases, machine learning, LLMs, and AI-powered applications
+* 🚀 Building, testing, and deploying production-oriented applications
+* 🔍 Interested in intelligent systems, AI automation, and applied AI
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**
+
+* Python
+* SQL
+
+**AI & Machine Learning**
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Machine Learning
+* LLM Integration
+
+**Backend & Software Engineering**
+
+* FastAPI
+* Flask
+* REST APIs
+* Pydantic
+* SQLAlchemy
+
+**Databases**
+
+* PostgreSQL
+
+**Deployment & Cloud**
+
+* Docker
+* AWS
+* Render
+
+**Tools**
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
-## 💼 Skills & Tools
+## 🚀 Selected Projects
 
-- **Languages:** Python, SQL
-- **Data Science & Machine Learning:** Scikit-learn, Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn, Power BI
-- **Deployment & Backend:** FastAPI, Flask, REST APIs, Render, AWS
-- **Tools:** Git, GitHub, Jupyter Notebook, Visual Studio Code
+### 🔬 [Research Intelligence Platform](https://github.com/success222/research-intelligence-platform)
 
----
+**Ongoing** — An AI-powered research and intelligence platform focused on collecting, processing, and transforming information into useful insights.
 
-## 🚀 Projects
-
-### 🔹 [Vehicle Health Assistant](https://github.com/success222/vehicle-health-assistant)
-AI-powered backend application that combines LLM capabilities with structured vehicle diagnostics to deliver intelligent maintenance recommendations through a REST API.
-
-- Built a production-ready backend using FastAPI
-- Integrated LLM-powered reasoning with structured vehicle data
-- Implemented secure API endpoints and deployment-ready architecture
-
-**Tech:** Python, FastAPI, LLM APIs
+**Tech:** Python · FastAPI · PostgreSQL · AI/LLMs
 
 ---
 
-### 🔹 [Cardiometabolic Risk Prediction (NHANES)](https://github.com/success222/cardiometabolic-risk-pred)
+### 🌦️ [Weather App](https://github.com/success222/weather-app)
 
-End-to-end machine learning project for multi-output prediction using real-world health survey data.
+A full-stack weather application demonstrating backend API development, external API integration, database persistence, CRUD operations, and frontend integration.
 
-- Developed predictive models using feature engineering and model evaluation techniques
-- Built a web application for real-time inference
-- Focused on building an end-to-end machine learning pipeline
-
-**Tech:** Python, Scikit-learn, Pandas, Flask
+**Tech:** Python · FastAPI · PostgreSQL · React
 
 ---
 
-### 🔹 [ASD Prediction in Children](https://github.com/success222/ASD-Prediction-in-Children)
+### 🚗 [Vehicle Health Assistant](https://github.com/success222/vehicle-health-assistant)
 
-Machine learning classification project comparing multiple algorithms for predictive modeling.
+An AI-powered backend application that combines LLM capabilities with structured vehicle diagnostics to provide intelligent maintenance recommendations.
 
-- Compared Logistic Regression, SVM, and Random Forest models
-- Applied cross-validation for robust model evaluation
-- Achieved strong classification performance
-
-**Tech:** Python, Scikit-learn, Pandas
+**Tech:** Python · FastAPI · LLM APIs · REST APIs
 
 ---
 
-### 🔹 [Sleep Disorder Prediction](https://github.com/success222/Sleep-Disorder-New)
+### 🫁 [TB Classification](https://github.com/success222/tb-classification)
 
-End-to-end machine learning application for multi-class prediction.
+A machine learning project focused on tuberculosis classification using medical imaging data.
 
-- Built and deployed an interactive web application
-- Implemented the complete machine learning workflow from preprocessing to deployment
-
-**Tech:** Python, Flask, Scikit-learn
+**Tech:** Python · Machine Learning · Deep Learning
 
 ---
 
-### 🔹 [Autism QoL Analysis](https://github.com/success222/QoL-Autism-Analysis)
+### ❤️ [Cardiometabolic Risk Prediction](https://github.com/success222/cardiometabolic-risk-pred)
 
-Exploratory data analysis project focused on uncovering insights from structured data.
+An end-to-end machine learning system built using NHANES data, covering data preprocessing, feature engineering, model development, optimisation, and deployment.
 
-- Performed data cleaning, visualization, and statistical analysis
-- Identified key factors influencing quality-of-life outcomes
-- Communicated findings through clear visualizations
-
-**Tech:** Python, Pandas, Seaborn
-
----
-
-## 🧩 Current Work
-
-- 🤖 Building AI-powered applications using LLMs and modern backend frameworks
-- 🚀 Exploring production AI systems, model deployment, and intelligent automation
-- 📚 Continuously improving my skills in machine learning, AI engineering, and data science
+**Tech:** Python · Scikit-learn · Pandas · Flask
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: sotonwasuccess1@gmail.com
-- 🌐 Portfolio: https://success-ml-portfolio.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/success-sotonwa/
+* 📧 **Email:** [sotonwasuccess1@gmail.com](mailto:sotonwasuccess1@gmail.com)
+* 🌐 **Portfolio:** https://success-ml-portfolio.vercel.app/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/success-sotonwa/
